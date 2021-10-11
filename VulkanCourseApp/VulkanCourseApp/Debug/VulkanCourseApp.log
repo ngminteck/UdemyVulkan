@@ -1,0 +1,5 @@
+﻿  VulkanRenderer.cpp
+D:\Vulkan\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(731,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+  VulkanCourseApp.vcxproj -> D:\Vulkan\VulkanCourseApp\Debug\VulkanCourseApp.exe
